@@ -17,7 +17,7 @@
 
 ## What It Is
 
-The **GBP SONIA Interest Rate Swap Pricing Analytics Tool** is a comprehensive quantitative finance application designed for pricing, risk analysis, and valuation of GBP (British Pound) Interest Rate Swaps (IRS) that reference SONIA (Sterling Overnight Index Average). 
+The **GBP SONIA Interest Rate Swap Pricing Analytics Tool** is a prototype model, valuation and risk validation tool for GBP (British Pound) Interest Rate Swaps (IRS) that reference SONIA (Sterling Overnight Index Average). 
 
 ### Key Capabilities:
 - **Pricing Engine**: Real-time mark-to-market (MTM) valuation of interest rate swaps
@@ -28,11 +28,10 @@ The **GBP SONIA Interest Rate Swap Pricing Analytics Tool** is a comprehensive q
 - **Market Data Integration**: Upload and override market curves for daily recalibration
 
 ### Target Users:
-- Quantitative analysts and financial engineers
-- Risk managers
-- Traders
-- Model validation teams
-- Financial institutions pricing and managing interest rate swap portfolios
+- Model validation teams to adopt this prototype
+- Testing teams. 
+- junior developers new to swaps price analytics 
+- anyone who is interested in end-to-end derivative pricing and deployment
 
 ---
 

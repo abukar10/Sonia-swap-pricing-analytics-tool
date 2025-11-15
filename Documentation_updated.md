@@ -89,7 +89,9 @@ $$PV_{Floating} = \sum_{j=1}^{m} N \times F(T_{j-1}, T_j) \times \tau_j \times P
 - Regulatory stress testing (e.g., Basel III)
 - Portfolio-level risk assessment
 
-**Example**: If a swap has an MTM of £100,000 and a +50bp stress results in an MTM of £150,000, the swap gains £50,000 in a rising rate environment (if receiving fixed).
+**Example**: If a swap has an MTM of £100,000 and a +50bp stress results in an MTM of £150,000, the swap gains £50,000 in a rising rate environment (if receiving fixed).  
+
+ΔMTM≈PV01×Δbps
 
 ### Non-Parallel Stress Testing
 

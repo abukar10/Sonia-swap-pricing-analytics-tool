@@ -1,3 +1,64 @@
+<style>
+/* Style for section headings - Blue color */
+h2 {
+    color: #0066cc;
+    font-size: 1.5em;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    font-weight: 600;
+}
+
+h3 {
+    color: #0066cc;
+    font-size: 1.2em;
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+    font-weight: 600;
+}
+
+h4 {
+    color: #0066cc;
+    font-size: 1.1em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-weight: 600;
+}
+
+/* Smaller text size for body */
+body {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+p {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+li {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+/* Table of contents styling */
+h1 {
+    color: #003366;
+    font-size: 1.8em;
+    margin-bottom: 0.5em;
+}
+
+/* Code blocks */
+code {
+    font-size: 13px;
+}
+
+/* Strong text */
+strong {
+    color: #004080;
+    font-weight: 600;
+}
+</style>
+
 # GBP SONIA Interest Rate Swap Pricing Analytics Tool - Technical Documentation
 
 ## Table of Contents
@@ -440,4 +501,3 @@ The tool is designed to be extended and enhanced, with a modular architecture th
 **Document Version**: 1.0  
 **Last Updated**: 2025  
 **Author**: Abukar - Pricing, Risk & Model Validation Tool
-

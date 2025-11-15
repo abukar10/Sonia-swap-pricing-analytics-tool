@@ -1,75 +1,73 @@
 <style>
-/* Style for section headings - Blue color */
 h2 {
     color: #0066cc !important;
-    font-size: 1.3em !important;
-    margin-top: 1.2em !important;
-    margin-bottom: 0.6em !important;
-    font-weight: 600 !important;
-}
-
-h3 {
-    color: #0066cc !important;
-    font-size: 1.1em !important;
+    font-size: 1.2em !important;
     margin-top: 1em !important;
     margin-bottom: 0.5em !important;
     font-weight: 600 !important;
 }
 
-h4 {
+h3 {
     color: #0066cc !important;
-    font-size: 1.0em !important;
+    font-size: 1.05em !important;
     margin-top: 0.8em !important;
     margin-bottom: 0.4em !important;
     font-weight: 600 !important;
 }
 
-/* Smaller text size for body */
+h4 {
+    color: #0066cc !important;
+    font-size: 0.95em !important;
+    margin-top: 0.7em !important;
+    margin-bottom: 0.3em !important;
+    font-weight: 600 !important;
+}
+
 body {
-    font-size: 12px !important;
-    line-height: 1.5 !important;
+    font-size: 10px !important;
+    line-height: 1.4 !important;
 }
 
 p {
-    font-size: 12px !important;
-    line-height: 1.5 !important;
-    margin-bottom: 0.8em !important;
+    font-size: 10px !important;
+    line-height: 1.4 !important;
+    margin-bottom: 0.6em !important;
 }
 
 li {
-    font-size: 12px !important;
-    line-height: 1.5 !important;
-    margin-bottom: 0.3em !important;
+    font-size: 10px !important;
+    line-height: 1.4 !important;
+    margin-bottom: 0.2em !important;
 }
 
-/* Table of contents styling */
 h1 {
     color: #003366 !important;
-    font-size: 1.6em !important;
-    margin-bottom: 0.5em !important;
+    font-size: 1.4em !important;
+    margin-bottom: 0.4em !important;
 }
 
-/* Code blocks */
 code {
-    font-size: 11px !important;
+    font-size: 9px !important;
 }
 
-/* Strong text */
 strong {
     color: #004080 !important;
     font-weight: 600 !important;
 }
 
-/* Ensure all text is smaller */
-* {
-    font-size: inherit;
+ul, ol {
+    font-size: 10px !important;
+    margin-top: 0.4em !important;
+    margin-bottom: 0.4em !important;
 }
 
-/* Lists */
-ul, ol {
-    font-size: 12px !important;
-    margin-top: 0.5em !important;
-    margin-bottom: 0.5em !important;
+table {
+    font-size: 10px !important;
+}
+
+td, th {
+    font-size: 10px !important;
+    padding: 0.3em !important;
 }
 </style>
 

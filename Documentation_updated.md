@@ -1,61 +1,75 @@
 <style>
 /* Style for section headings - Blue color */
 h2 {
-    color: #0066cc;
-    font-size: 1.5em;
-    margin-top: 1.5em;
-    margin-bottom: 0.8em;
-    font-weight: 600;
+    color: #0066cc !important;
+    font-size: 1.3em !important;
+    margin-top: 1.2em !important;
+    margin-bottom: 0.6em !important;
+    font-weight: 600 !important;
 }
 
 h3 {
-    color: #0066cc;
-    font-size: 1.2em;
-    margin-top: 1.2em;
-    margin-bottom: 0.6em;
-    font-weight: 600;
+    color: #0066cc !important;
+    font-size: 1.1em !important;
+    margin-top: 1em !important;
+    margin-bottom: 0.5em !important;
+    font-weight: 600 !important;
 }
 
 h4 {
-    color: #0066cc;
-    font-size: 1.1em;
-    margin-top: 1em;
-    margin-bottom: 0.5em;
-    font-weight: 600;
+    color: #0066cc !important;
+    font-size: 1.0em !important;
+    margin-top: 0.8em !important;
+    margin-bottom: 0.4em !important;
+    font-weight: 600 !important;
 }
 
 /* Smaller text size for body */
 body {
-    font-size: 14px;
-    line-height: 1.6;
+    font-size: 12px !important;
+    line-height: 1.5 !important;
 }
 
 p {
-    font-size: 14px;
-    line-height: 1.6;
+    font-size: 12px !important;
+    line-height: 1.5 !important;
+    margin-bottom: 0.8em !important;
 }
 
 li {
-    font-size: 14px;
-    line-height: 1.6;
+    font-size: 12px !important;
+    line-height: 1.5 !important;
+    margin-bottom: 0.3em !important;
 }
 
 /* Table of contents styling */
 h1 {
-    color: #003366;
-    font-size: 1.8em;
-    margin-bottom: 0.5em;
+    color: #003366 !important;
+    font-size: 1.6em !important;
+    margin-bottom: 0.5em !important;
 }
 
 /* Code blocks */
 code {
-    font-size: 13px;
+    font-size: 11px !important;
 }
 
 /* Strong text */
 strong {
-    color: #004080;
-    font-weight: 600;
+    color: #004080 !important;
+    font-weight: 600 !important;
+}
+
+/* Ensure all text is smaller */
+* {
+    font-size: inherit;
+}
+
+/* Lists */
+ul, ol {
+    font-size: 12px !important;
+    margin-top: 0.5em !important;
+    margin-bottom: 0.5em !important;
 }
 </style>
 
